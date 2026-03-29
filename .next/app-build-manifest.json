@@ -25,6 +25,16 @@
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/auth/signin/page.js"
+    ],
+    "/seller/upload/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/seller/upload/page.js"
+    ],
+    "/api/projects/route": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/api/projects/route.js"
     ]
   }
 }
